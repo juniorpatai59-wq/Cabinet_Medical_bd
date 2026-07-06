@@ -25,3 +25,5 @@ Technologies utilisées
 
 - MySQL
 - GitHub
+- 
+Projet réalisé dans le cadre du cours de Bases de Données.
