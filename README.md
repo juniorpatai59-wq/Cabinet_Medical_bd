@@ -8,7 +8,7 @@ MEMBRE DU GROUPE
 - Fatoumata Sall
 - Ibrahima Sene
 
-DESCIPTION
+DESCRIPTION
 
 Ce projet consiste à concevoir une base de données pour la gestion d'un cabinet médical.
 
